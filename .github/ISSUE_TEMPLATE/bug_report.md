@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 앱개발 프로젝트 결함등록
 title: ''
 labels: Bug
 assignees: gkdrhdeoeo
@@ -9,17 +9,19 @@ assignees: gkdrhdeoeo
 
 **[공통/iOS/AOS] 결함 내용**
 
-- 사전조건 :
+- Testcase ID : 
 
-- 테스트데이터 : 
+- 사전조건
 
-- 재현절차 :
+- 재현절차
 
-- 기대결과 :
+- 기대결과
 
-- 심각도 : 
+- 실제결과
 
-- 발생빈도 : 
+- 심각도
+
+- 발생빈도
 
 - 테스트환경
 
