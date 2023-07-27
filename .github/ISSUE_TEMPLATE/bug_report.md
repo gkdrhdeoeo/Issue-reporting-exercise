@@ -1,17 +1,26 @@
-#[운영체제] 결함 헤드라인
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: Bug
+assignees: gkdrhdeoeo
 
-#사전조건 : 
+---
 
-#테스트데이터 : 
+*[공통/iOS/AOS] 결함 내용*
 
-#재현절차 :
+- 사전조건 :
 
-#기대결과 :
+- 테스트데이터 : 
 
-#결함심각도 : 
+- 재현절차 :
 
-#발생빈도 :
+- 기대결과 :
 
-#※ 테스트환경
+- 심각도 : 
 
-#※ 첨부파일
+- 발생빈도 : 
+
+- 테스트환경
+
+- 첨부파일
