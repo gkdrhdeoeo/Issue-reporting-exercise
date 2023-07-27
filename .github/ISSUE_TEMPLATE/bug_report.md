@@ -7,7 +7,7 @@ assignees: gkdrhdeoeo
 
 ---
 
-*[공통/iOS/AOS] 결함 내용*
+#[공통/iOS/AOS] 결함 내용
 
 - 사전조건 :
 
