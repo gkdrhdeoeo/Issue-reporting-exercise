@@ -1,32 +1,13 @@
 ---
 name: Bug report
-about: "[AOS/iOS] 이슈발생"
+about: Create a report to help us improve
 title: ''
-labels: bug
-assignees: gkdrhdeoeo
+labels: 결함
+assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+[BO > 전시상품관리 > 상품등록 > FO > 상품 > 뱃지] BO에서 뱃지를 앱전용, 온라인 ONLY을 설정 > 뱃지가 전시화면에서는 "온라인 ONLY" 상세화면에서는 "앱전용"이 노출됨
 
 - 사전조건 : BO > 로그인 / FO > APP로그인
 
